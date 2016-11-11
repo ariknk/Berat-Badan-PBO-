@@ -1,7 +1,7 @@
 # Berat-Badan-PBO-
 #Screenshot
 
-![Image](https://github.com/ariknk/Berat-Badan-PBO-.git)<br>
+![Image](https://github.com/ariknk/Berat-Badan-PBO-/blob/master/11.PNG)<br>
 
 #Identitas
 Nama : Arik Nur Khoiriyah<br>
